@@ -28,7 +28,7 @@
   </div>
 
   <script>
-    const apiBase = 'https://your-api-url.onrender.com'; // Replace with your deployed API URL
+    const apiBase = 'https://your-api-url.onrender.com';
 
     async function login() {
       const username = document.getElementById('username').value;
